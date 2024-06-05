@@ -12,7 +12,7 @@
 </h2>    
 <p>
     <samp>
-    I am Software Developer. I'm also learning different programming languages, frameworks, front end & backend development, Flutter&Dart, and Databases.
+    I am  <span style="color:blue"> junior Software Developer</span>. I'm also learning different programming languages, frameworks, front end & backend development, Flutter&Dart, and Databases.
     </samp>
 </p>
 </div>
