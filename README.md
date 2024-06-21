@@ -24,7 +24,7 @@
 <hr style="border: 1px dashed #D3D3D3">
 </div>
 <p align="center">
-<a href="https://github.com/gladsonchala"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yared-abera&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Yaredo"/></a>
+<a href="https://github.com/yared-abera"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yared-abera&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Yaredo"/></a>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yared-abera&theme=midnight_purple)
