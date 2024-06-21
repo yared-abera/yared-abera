@@ -18,7 +18,7 @@
 </div>
 <hr style="border: 1px dashed #D3D3D3">
 
-<p align="center"><a href="https://github.com/yared-abera/">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yared-abera&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/></a>  <a href="https://github.com/yared-abera/">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yared-abera&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/></a> <a href="https://github.com/gladsonchala">    <img align="center" src="https://github-profile-trophy.vercel.app/?username=yared-abera&theme=tokyonight" width="820"/>  </a></p>
+<p align="center"><a href="https://github.com/yared-abera/">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yared-abera&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/></a>  <a href="https://github.com/yared-abera/">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yared-abera&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/></a> <a href="https://github.com/yared-abera">    <img align="center" src="https://github-profile-trophy.vercel.app/?username=yared-abera&theme=tokyonight" width="820"/>  </a></p>
 
 
 <hr style="border: 1px dashed #D3D3D3">
@@ -45,7 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="">
+<a href="https://github.com/yared-abera">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yared-abera&theme=midnight_purple" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yared-abera&theme=midnight_purple" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yared-abera&theme=midnight_purple" height="180em" />
