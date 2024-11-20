@@ -1,5 +1,5 @@
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=800&lines=I+am+Yared+Abera+frontend+developer;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=800&lines=I+am+Yared+Abera+fullStack+developer;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
 
 
 
